@@ -1,5 +1,7 @@
 # Processing
-In this repository, some works done as class assignments on Processing has been shared. 
+Processing Assignments Repository
+This repository contains a collection of class assignments completed using Processing.
+
 
 PreRequsites:
 Processing environment. 
